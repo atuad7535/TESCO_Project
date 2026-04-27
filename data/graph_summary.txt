@@ -1,0 +1,28 @@
+Tesco Twitter interaction graph — summary
+=========================================
+Nodes (users)          : 26,781
+Directed edges         : 52,040
+Density                : 0.000073
+Reciprocity            : 0.0199
+Edges w/ weight>=2    : 12,986
+Communities (Louvain)  : 556
+Modularity             : 0.6546
+
+Top 5 communities by size:
+  community 1: 4,297 members
+  community 0: 666 members
+  community 14: 264 members
+  community 15: 159 members
+  community 41: 152 members
+
+Top 10 PageRank users:
+  @Tesco                   pagerank=0.18233  in= 25210  out=     1
+  @raceforlife             pagerank=0.15862  in=     4  out=     0
+  @sainsburys              pagerank=0.01265  in=  2596  out=     3
+  @Morrisons               pagerank=0.00796  in=  1932  out=    11
+  @PropJourn               pagerank=0.00731  in=     2  out=     3
+  @asda                    pagerank=0.00517  in=  1387  out=     0
+  @jamesmurden             pagerank=0.00456  in=   719  out=     9
+  @waitrose                pagerank=0.00428  in=  1437  out=     0
+  @LCoyle_Comms            pagerank=0.00395  in=   511  out=    17
+  @AldiUK                  pagerank=0.00343  in=  1393  out=    10

@@ -1,0 +1,15 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+nltk==3.8.1
+gensim==4.3.2
+pyLDAvis==3.4.1
+networkx==3.3
+python-louvain==0.16
+torch==2.3.0
+transformers==4.41.2
+tqdm==4.66.4
+pyarrow==16.1.0
+vaderSentiment==3.3.2

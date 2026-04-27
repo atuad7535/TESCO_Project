@@ -1,0 +1,15 @@
+Cleaning report
+================
+raw rows           : 96,702
+after lang=='en'   : 92,732
+after text>=5 chars: 92,732
+after dedup id_str : 92,732
+final rows         : 92,732
+
+Type breakdown (final):
+  original tweets : 58,121
+  retweets        : 34,611
+  replies         : 36,338
+  quotes          : 4,744
+
+Date range: 2020-01-01 00:41:07+00:00 -> 2020-12-30 23:58:24+00:00

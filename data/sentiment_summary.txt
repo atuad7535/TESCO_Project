@@ -1,0 +1,8 @@
+Sentiment summary (n = 92,732)
+================================
+negative :  30,941  (33.37%)
+neutral  :  34,254  (36.94%)
+positive :  27,537  (29.7%)
+
+mean sentiment_score = -0.0065
+mean confidence      = 0.7744

@@ -1,0 +1,11 @@
+event,date,n_pre,n_post,mean_pre,mean_post,delta,share_neg_pre,share_neg_post
+WHO declares COVID-19 a pandemic,2020-03-11,2407,16590,-0.0455,0.0472,0.0927,0.344,0.2532
+UK national lockdown begins,2020-03-23,15178,9969,0.0588,-0.0035,-0.0623,0.2446,0.3655
+Tesco hires 35k temp staff,2020-03-25,16590,9109,0.0472,0.0126,-0.0346,0.2532,0.361
+Tesco opens priority slots for vulnerable,2020-04-03,15166,5472,0.0054,0.0187,0.0133,0.3088,0.3123
+First lockdown easing in England,2020-06-15,2402,5615,-0.1576,0.5296,0.6872,0.3834,0.1297
+Tesco sells Tesco Lotus Asia ops,2020-03-09,2417,15178,-0.0276,0.0588,0.0864,0.338,0.2446
+Eat Out To Help Out begins,2020-08-03,3987,2091,-0.2718,-0.1108,0.161,0.4871,0.373
+Tier system announced,2020-10-12,2241,2626,-0.1375,0.1381,0.2756,0.4244,0.2772
+Second national lockdown begins,2020-11-05,4133,4950,-0.1531,0.0036,0.1567,0.4742,0.3364
+Tier 4 announced (London/SE),2020-12-19,1729,3168,0.0225,-0.0229,-0.0453,0.3389,0.2831

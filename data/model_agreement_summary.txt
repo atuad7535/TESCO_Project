@@ -1,0 +1,16 @@
+Model agreement (RoBERTa vs VADER), n = 92,732
+=================================================
+% agreement   : 62.38%
+Cohen's kappa : 0.4425
+
+Confusion matrix (rows = RoBERTa, cols = VADER):
+                  vader_negative  vader_neutral  vader_positive
+roberta_negative           15920           7055            7966
+roberta_neutral             3738          16843           13673
+roberta_positive             582           1875           25080
+
+VADER class shares:
+vader_label
+positive    0.5038
+neutral     0.2779
+negative    0.2183
